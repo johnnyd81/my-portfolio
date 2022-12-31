@@ -37,7 +37,7 @@ export default function Projects() {
           , the frontend source code is available{" "}
           <Link href="https://github.com/johnnyd81/itunes-frontend">
             <a>here</a>
-          </Link>
+          </Link>{" "}
           and the backend is available{" "}
           <Link href="https://github.com/johnnyd81/itunes-frontend">
             <a>here.</a>
