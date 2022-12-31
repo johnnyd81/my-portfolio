@@ -34,25 +34,12 @@ export default function Projects() {
           <Link href="https://itunes-frontend.vercel.app/">
             <a>here</a>
           </Link>{" "}
-          ,the frontend source code is available{" "}
+          , the frontend source code is available{" "}
           <Link href="https://github.com/johnnyd81/itunes-frontend">
             <a>here</a>
           </Link>
-          and the backend is available
+          and the backend is available{" "}
           <Link href="https://github.com/johnnyd81/itunes-frontend">
-            <a>here.</a>
-          </Link>
-        </p>
-      </div>
-      <div className="project-item">
-        <h2>Todo-List app with user authentication</h2>
-        <p>
-          This application allows a user to create a todo list, as well as
-          delete todos from the list. Each user is only allowed to add or remove
-          todos from their specific list. This is made possible by
-          authenticating each user, before they can use the application. The
-          todos for each user is saved in a database. A live demo can be viewed{" "}
-          <Link href="https://todo-app-frontend-kappa.vercel.app/login">
             <a>here.</a>
           </Link>
         </p>
@@ -82,11 +69,11 @@ export default function Projects() {
           <Link href="https://hotel-frontend-alpha.vercel.app/login">
             <a>here</a>
           </Link>{" "}
-          ,the frontend source code can be found{" "}
+          , the frontend source code can be found{" "}
           <Link href="https://github.com/johnnyd81/hotel-frontend">
             <a>here</a>
           </Link>{" "}
-          and the backend can be found
+          and the backend can be found{" "}
           <Link href="https://github.com/johnnyd81/hotel-backend">
             <a>here.</a>
           </Link>
