@@ -31,11 +31,15 @@ export default function Projects() {
           app is a fullstack application comprising of a React.js frontend and a
           Node.js/Express.js backend. A live demo of the application can be
           viewed{" "}
-          <Link href="https://pure-temple-70555.herokuapp.com">
+          <Link href="https://itunes-frontend.vercel.app/">
             <a>here</a>
           </Link>{" "}
-          and the source code is available{" "}
-          <Link href="https://github.com/johnnyd81/my-itunes-app">
+          ,the frontend source code is available{" "}
+          <Link href="https://github.com/johnnyd81/itunes-frontend">
+            <a>here</a>
+          </Link>
+          and the backend is available
+          <Link href="https://github.com/johnnyd81/itunes-frontend">
             <a>here.</a>
           </Link>
         </p>
@@ -48,7 +52,7 @@ export default function Projects() {
           todos from their specific list. This is made possible by
           authenticating each user, before they can use the application. The
           todos for each user is saved in a database. A live demo can be viewed{" "}
-          <Link href="https://floating-sierra-91844.herokuapp.com">
+          <Link href="https://todo-app-frontend-kappa.vercel.app/login">
             <a>here.</a>
           </Link>
         </p>
@@ -64,6 +68,26 @@ export default function Projects() {
           </Link>{" "}
           and the source code can be found{" "}
           <Link href="https://github.com/johnnyd81/rickmorty-gallery">
+            <a>here.</a>
+          </Link>
+        </p>
+      </div>
+      <div className="project-item">
+        <h2>Hotel-booking app</h2>
+        <p>
+          This application simulates a booking app that allows a user to book
+          accomodation in three cities in South Africa. The application is built
+          using react.js as the frontend and node/express.js as the backend. A
+          live demo is available{" "}
+          <Link href="https://hotel-frontend-alpha.vercel.app/login">
+            <a>here</a>
+          </Link>{" "}
+          ,the frontend source code can be found{" "}
+          <Link href="https://github.com/johnnyd81/hotel-frontend">
+            <a>here</a>
+          </Link>{" "}
+          and the backend can be found
+          <Link href="https://github.com/johnnyd81/hotel-backend">
             <a>here.</a>
           </Link>
         </p>
