@@ -1,6 +1,6 @@
 # Developer Portfolio
 
-This application showcases some of the projects I built using various frontend and backend technologies.
+This application showcases some of the projects I built using the frontend and backend technologies of the MERN stack i.e. MongoDB, Express.js, React.js and Node.js.
 
 ![image](https://github.com/johnnyd81/my-portfolio/assets/95863021/ab581ec7-52b1-47c6-a9e1-0db1571e2334)
 
