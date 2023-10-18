@@ -20,28 +20,20 @@ export default function Projects() {
         </p>
       </div>
       <div className="project-item">
-        <h2>Itunes Search App</h2>
+        <h2>Health store</h2>
         <p>
-          This application allows a user to search for items on the Itunes-Apple
-          store. A user has a choice of narrowing down a search by clicking on a
-          dropdown menu that gives the user a choice of Movies, Music, TV-Show,
-          podcast etc. The search results are rendered on the page and a user
-          can add items to a Favourites page. A link is provided to the
-          Favourites page and favourite items can also be deleted from here. The
-          app is a fullstack application comprising of a React.js frontend and a
-          Node.js/Express.js backend. A live demo of the application can be
-          viewed{" "}
-          <Link href="https://itunes-frontend.vercel.app/">
+          This application simulates the experience a user would have on an
+          online store. A user has the option of viewing products and adding
+          them to a shopping cart. A cart page allows modifications to be made
+          to the cart items that reflects in real time in the user interface. A
+          live demo of the application can be viewed{" "}
+          <Link href="https://health-shop-three.vercel.app/index.html">
             <a>here</a>
           </Link>{" "}
-          , the frontend source code is available{" "}
-          <Link href="https://github.com/johnnyd81/itunes-frontend">
+          and the source code is available{" "}
+          <Link href="https://github.com/johnnyd81/health-shop">
             <a>here</a>
           </Link>{" "}
-          and the backend is available{" "}
-          <Link href="https://github.com/johnnyd81/itunes-frontend">
-            <a>here.</a>
-          </Link>
         </p>
       </div>
       <div className="project-item">
