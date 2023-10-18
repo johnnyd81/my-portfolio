@@ -7,11 +7,11 @@ export default function About() {
         recurring theme in my life. The ever-changing advances in technology and
         the digitisation of many day-to-day tasks led me to try my hand at
         coding as a hobby. The feeling of excitement after writing my first line
-        of HTML code in 2019, and seeing it rendered in the browser, was a
-        turning point in my career since up until that point my career was very
-        computer hardware and sales dominant. Online educational platforms like
-        Udemy and the Odin project further served as very helpful learning tools
-        in my initial coding journey.
+        of HTML code and seeing it rendered in the browser was a turning point
+        in my career since up until that point my career was very computer
+        hardware and sales dominant. Online educational platforms like Udemy,
+        freeCodeCamp and the Odin project further served as very helpful
+        learning tools in my initial coding journey.
       </p>
       <p className="about-item">
         The tricky part about coding, at least for me, was that I always wanted
@@ -25,14 +25,11 @@ export default function About() {
         database interactions.
       </p>
       <p className="about-item">
-        My new-found abilities have not gone unnoticed as now every issue
-        involving a computer suddenly becomes my problem. The tools provided by
-        coding has been an immense game-changer in my personal life as it
-        affords me the opportunity to assist my family in their businesses and
-        mentor my younger family members with the knowledge I have acquired.
-        When I'm not coding I love to spend time playing soccer and basketball,
-        composing music on the piano and the guitar, as well as keeping my
-        language skills fresh i.e. German, Zulu and Spanish.
+        The tools provided by coding has been an immense game-changer in my life
+        as it opens up so much doors to those who have the courage to apply
+        themselves diligently. When I'm not coding I love to spend time playing
+        soccer and basketball, composing music on the piano and the guitar, as
+        well as doing a bit of foreign language learning i.e. German.
       </p>
       {/*the background image is stored in the public folder and it's path makes it easy to utilize in the application */}
       <style jsx>
